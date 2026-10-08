@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+:root {
+  --color-primary: #2e40e0;
+  --color-secondary: #ffcc66;
+  --color-tertiaty: #99a0a3;
+}
+
+a { 
+  @apply text-sky-700;
+}
+
+a:hover {
+  @apply border-b-2 border-sky-700;
+}
+
+
+
+.content p {
+  @apply my-6;
+}
+
+.content ul {
+  @apply my-6;
+}

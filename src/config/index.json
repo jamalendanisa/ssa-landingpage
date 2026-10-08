@@ -1,0 +1,146 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "About",
+      "href": "about"
+    },
+    {
+      "name": "Service",
+      "href": "service"
+    },
+
+    {
+      "name": "Contact",
+      "href": "contact"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Empowering Your Business with",
+    "subtitle": "Cutting-Edge IT Solutions",
+    "description": "Di SSA, kami menyediakan layanan IT inovatif yang dirancang khusus untuk perusahaan Anda. Mulai dari VoIP dan jaringan hingga pengembangan aplikasi web dan seluler, tim ahli kami siap meningkatkan pengalaman teknologi Anda.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#contact"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:info@ptssa.id"
+    }
+  },
+   "clients": {
+    "title": "Our Clients",
+    "items": [
+      {
+        "name": "azp",
+        "img": "/assets/images/clients/1.png"
+      },
+      {
+        "name": "ebm",
+        "img": "/assets/images/clients/2.png"
+      },
+      {
+        "name": "jnt",
+        "img": "/assets/images/clients/3.png"
+      },
+      {
+        "name": "hett",
+        "img": "/assets/images/clients/4.png"
+      },
+      {
+        "name": "magnet",
+        "img": "/assets/images/clients/5.png"
+      },
+      {
+        "name": "rasa",
+        "img": "/assets/images/clients/6.png"
+      }
+    ],
+     "logoWa": "/assets/images/wa.png",
+     "waNo": "https://wa.me/6281388377773"
+  },
+  "product": {
+    "title": "About SSA",
+    "items": [
+      {
+        "title": "Mitra Terpercaya Anda",
+        "description": "SSA adalah mitra terpercaya Anda dalam layanan IT, menawarkan solusi inovatif yang disesuaikan dengan kebutuhan spesifik Anda. Keahlian kami mencakup VoIP, jaringan, dan pengembangan aplikasi untuk perusahaan Anda. Dengan tim profesional yang berdedikasi, kami memberikan hasil luar biasa untuk membantu bisnis Anda berkembang.",
+        "img": "/assets/images/about1.jpg"
+      },
+      {
+        "title": "Membangun Hubungan Jangka Panjang",
+        "description": "Bagi SSA, keberhasilan bukan hanya tentang menyelesaikan pekerjaan, tetapi juga tentang membangun hubungan yang berkelanjutan. Kami mengutamakan komunikasi yang terbuka, pemahaman terhadap kebutuhan pelanggan, serta kerja sama yang saling memberikan manfaat untuk menciptakan hubungan bisnis yang kuat dan terpercaya.",
+        "img": "/assets/images/about2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Our Services",
+    "subtitle": "All the best technologies out there!",
+    "description": "Kami menyediakan layanan IT inovatif yang dirancang untuk memenuhi kebutuhan perusahaan, mulai dari VoIP dan jaringan hingga pengembangan aplikasi web dan mobile.",
+    "items": [
+      {
+        "name": "VoIP Services",
+        "description": "Kami menyediakan layanan Voice over IP yang andal untuk meningkatkan komunikasi dan kolaborasi dalam perusahaan.",
+        "icon": "/assets/images/services/voip.png"
+      },
+      {
+        "name": "Network Solutions",
+        "description": "Optimalkan infrastruktur IT dengan solusi jaringan yang inovatif, aman, dan stabil.",
+        "icon": "/assets/images/services/network.png"
+      },
+      {
+        "name": "Web Development",
+        "description": "Bangun website yang menarik dan fungsional sesuai kebutuhan bisnis Anda.",
+        "icon": "/assets/images/services/web.png"
+      },
+      {
+        "name": "Mobile App Development",
+        "description": "Kembangkan aplikasi mobile yang interaktif untuk meningkatkan pengalaman dan kepuasan pengguna.",
+        "icon": "/assets/images/services/app.webp"
+      },
+       {
+        "name": "Consulting Services",
+        "description": "Dapatkan konsultasi IT strategis yang selaras dengan kebutuhan dan tujuan bisnis Anda.",
+        "icon": "/assets/images/services/consulting.png"
+      },
+      {
+        "name": "Technical Support",
+        "description": "Nikmati dukungan teknis 24/7 untuk membantu menyelesaikan berbagai kendala IT dengan cepat.",
+        "icon": "/assets/images/services/tech.png"
+      }
+    ]
+  },
+  "contact": {
+    "items": [
+      {
+        "name": "Head Office",
+        "description": "BTN Ciremai Giri Blok T1 No 12 Kel. Harjamukti Kec. Kecapi Kota Cirebon, Jawa Barat"
+      },
+      {
+        "name": "Operasional",
+        "description": "Jl. Cempaka No. 275 Komplek PDK, Cipondoh Indah Kota Tangerang, Banten"
+      },
+      {
+        "name": "Telp",
+        "description": "021 3062 0088"
+      },
+      {
+        "name": "WA/Telegram",
+        "description": "0813 8837 7773"
+      },
+      {
+        "name": "Email",
+        "description": "info@ptssa.id"
+      }
+    ]
+  }
+}
