@@ -2,6 +2,9 @@ module.exports = {
   mode: 'jit',
   purge: ['./src/**/*.{js,ts,jsx,tsx}'],
   darkMode: false,
+  content: [
+    './src/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
   theme: {
     fontSize: {
       xs: '0.75rem',
@@ -17,10 +20,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#2e40e0;',
+        primary: '#5175ed;',
         secondary: '#ffcc66',
         tertiary: '#99a0a3',
-        border: '#1a2e35',
+        border: '#cdd2f2',
         background: '#ffffff',
       },
       animation: {

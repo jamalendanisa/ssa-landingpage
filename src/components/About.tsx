@@ -10,7 +10,7 @@ const About = () => {
   return (
     <div
       id="contact"
-      className="mx-auto container xl:px-20 lg:px-12 sm:px-6 px-4 py-12"
+      className="mx-auto lg:max-w-7xl sm:max-w-2xl max-w-md container xl:px-20 lg:px-12 sm:px-6 px-4 py-12"
     >
       <div className="flex flex-col items-center justify-center">
         <div>
@@ -21,11 +21,11 @@ const About = () => {
             {contactList.map((contact) => (
               <div key={contact.name} className="relative">
                 <dt>
-                  <p className="ml-16 text-lg leading-6 font-medium text-gray-900">
+                  <p className="ml-4 text-lg leading-6 font-medium text-gray-900">
                     {contact.name}
                   </p>
                 </dt>
-                <dd className="mt-2 ml-16 text-base text-gray-500">
+                <dd className="mt-2 ml-4 text-base text-gray-500">
                   {contact.description}
                 </dd>
               </div>

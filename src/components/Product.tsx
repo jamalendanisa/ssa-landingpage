@@ -9,7 +9,7 @@ const Product = () => {
 
   return (
     <section className={`bg-background py-8`} id="about">
-      <div className={`container max-w-5xl mx-auto m-8`}>
+      <div className={`container max-w-5xl mx-auto lg:max-w-7xl sm:max-w-2xl max-w-md m-8`}>
         <h1
           className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
         >
@@ -24,7 +24,7 @@ const Product = () => {
         </h1>
         <Divider />
         <div className={`flex flex-wrap`}>
-          <div className={`w-5/6 sm:w-1/2 p-6 mt-34`}>
+          <div className={`w-5/6 sm:w-1/2 p-6 mt-34 lg:mt-48`}>
             <h3
               className={`text-3xl text-gray-800 font-bold leading-none mb-3`}
             >
@@ -48,7 +48,7 @@ const Product = () => {
               alt={secondItem?.title}
             />
           </div>
-          <div className={`w-full sm:w-1/2 p-6 mt-34`}>
+          <div className={`w-full sm:w-1/2 p-6 mt-34 lg:mt-48`}>
             <div className={`align-middle`}>
               <h3
                 className={`text-3xl text-gray-800 font-bold leading-none mb-3`}
