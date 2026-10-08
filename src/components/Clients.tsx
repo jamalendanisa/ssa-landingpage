@@ -33,7 +33,7 @@ const Clients = () => {
       <div className="flex items-center justify-between w-full md:w-auto">
         <a href={waNo} target="_blank" rel="noopener noreferrer">
           <img alt="logo-wa" className="h-16 w-auto sm:h-16" src={logoWa}
-          style={{position: 'fixed', right: '40px', bottom: '35px'}} />
+          style={{position: 'fixed', right: '25px', bottom: '35px'}} />
         </a>
       </div>
     </div>
